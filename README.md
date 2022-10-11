@@ -36,10 +36,6 @@
 
 ###
 
-[![@pldnz's Holopin board](https://holopin.io/api/user/board?user=pldnz)](https://holopin.io/@pldnz)
-
-###
-
 <h2 align="left">You can find me in:</h2>
 
 ###
@@ -55,5 +51,13 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
     </a>
 </div>
+
+###
+
+<h2 align="left">My badges:</h2>
+
+###
+
+[![@pldnz's Holopin board](https://holopin.io/api/user/board?user=pldnz)](https://holopin.io/@pldnz)
 
 ###
